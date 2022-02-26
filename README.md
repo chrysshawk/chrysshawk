@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrysshawk
 - 👀 I’m interested in FinTech, Machine Learning, and cloud technologies.
-- 🌱 I’m currently learning Azure and Databricks.
+- 🌱 I’m currently learning about & working on algo trading in crypto markets.
 - 💞️ I’m looking to collaborate on time series reinforcement learning models on big data in Spark/Databricks.
 - 📫 How to reach me: haukvik@gmx.com
 
